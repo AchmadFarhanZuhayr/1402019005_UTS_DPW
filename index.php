@@ -12,7 +12,7 @@
 		<h1>EDU-COVID</h1>
 		<div class="tombol">
 			<ul>
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li><a href="pencegahan.html">Pencegahan Covid-19</a></li>
 				<li><a href="data.html">Data dan Statistik</a></li>
 				<li><a href="kuis.html">Kuis</a></li>
