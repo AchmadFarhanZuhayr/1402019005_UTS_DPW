@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>EDU COVID</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 </head>
 <body>
@@ -12,7 +12,7 @@
 		<h1>EDU-COVID</h1>
 		<div class="tombol">
 			<ul>
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li><a href="pencegahan.html">Pencegahan Covid-19</a></li>
 				<li><a href="data.html">Data dan Statistik</a></li>
 				<li><a href="kuis.html">Kuis</a></li>
