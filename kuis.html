@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>EDU COVID</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+	<script type="text/javascript" src="quiz.js" ></script>
+</head>
+<body>
+	<form name="quiz" id="quiz">
+		
+		<div class="judul">
+		<h1>EDU-COVID</h1>
+		<div class="tombol">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="pencegahan.html">Pencegahan Covid-19</a></li>
+				<li><a href="data.html">Data dan Statistik</a></li>
+				<li><a href="kuis.html">Kuis</a></li>
+				<li><a href="kontak.html">Kontak</a></li>
+			</ul>
+		</div>
+	</div>
+
+		<div class="pertanyaan01">
+			<h2>Kuis singkat seputar wawasan mengenai COVID-19</h2>
+			<p>1. coronavirus menyerang sistem?</p>
+			<p><input type="radio" name="question1" value="Kecepatan">A. Kecepatan</p>
+			<p><input type="radio" name="question1" value="Pernapasan">B. Pernapasan</p>
+			<p><input type="radio" name="question1" value="Kesakitan">C. Kesakitan</p>
+			<p><input type="radio" name="question1" value="Data Base">D. Data Base</p>
+		</div>
+
+		<div class="pertanyaan02">
+			<p>2. PSBB merupakan kepanjangan dari?</p>
+			<p><input type="radio" name="question2" value="Perbatasan Sulawesi Berskala Besar">A. Perbatasan Sulawesi Berskala Besar</p>
+			<p><input type="radio" name="question2" value="Pembatasan Sosial Berskala Besar">B. Pembatasan Sosial Berskala Besar</p>
+			<p><input type="radio" name="question2" value="Pulang Sakit Besok Besok">C. Pulang Sakit Besok Besok</p>
+			<p><input type="radio" name="question2" value="Semua Benar">D. Semua Benar</p>
+		</div>
+
+		<div class="pertanyaan03">
+			<p>3. Virus Corona Berasal dari hewan?</p>
+			<p><input type="radio" name="question3" value="Babi">A. Babi</p>
+			<p><input type="radio" name="question3" value="Ayam">B. Ayam</p>
+			<p><input type="radio" name="question3" value="Sapi">C. Sapi</p>
+			<p><input type="radio" name="question3" value="Kalelawar">D. Kalelawar</p>
+		</div>
+
+		<div class="pertanyaan04">
+			<p>4. Virus Corona pertama kali terjadi di Negara?</p>
+			<p><input type="radio" name="question4" value="Serbia">A. Serbia</p>
+			<p><input type="radio" name="question4" value="Jepang">B. Jepang</p>
+			<p><input type="radio" name="question4" value="Cina">C. Cina</p>
+			<p><input type="radio" name="question4" value="Semua Benar">D. Semua Benar</p>
+		</div>
+
+		<div class="pertanyaan05">
+			<p>5. Langkah-langkah pencegahan penularan Covid-19?</p>
+			<p><input type="radio" name="question5" value="Memakai Masker">A. Memakai Masker</p>
+			<p><input type="radio" name="question5" value="Jaga Jarak dan tidak berkerumunan">B. Jaga Jarak dan tidak berkerumunan</p>
+			<p><input type="radio" name="question5" value="Selalu Mencuci tangan sebelum  dan sesudah beraktivitas">C. Selalu Mencuci tangan sebelum  dan sesudah beraktivitas</p>
+			<p><input type="radio" name="question5" value="Semua Benar">D. Semua Benar</p>
+		</div>
+		<input class="submit" type="button" value="Submit!" onclick="check()">
+	</form>
+	<p id="nilai"></p>
+
+
+</body>
+</html>

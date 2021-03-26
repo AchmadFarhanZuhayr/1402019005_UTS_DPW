@@ -1,0 +1,132 @@
+*{
+	padding:0;
+	margin:0 auto;
+	font-family: none;
+}
+a{
+	color: inherit;
+	text-decoration: none;
+}
+p{
+	font-size: 20px;
+	margin-bottom: 25px;
+	margin-left: 10px;
+}
+.langkah{
+
+}
+.tombol{
+	padding:5px 0;
+	background-color: #394E76;
+}
+.tombol ul li {
+	display: inline-block;
+	color: #ffff;
+	margin-right: 10px;
+	padding: 25px 25px;
+	font-size: 20px;
+}
+.tombol ul li a {
+	padding: 25px 25px;
+	display: inline-block;
+} 
+h1{
+	font-style: Sans-serif;
+	background-color: #394E76;
+	text-align: center;
+	padding-bottom: 25px;
+	padding-top: 15px;
+	color: white;
+}
+h2{
+	margin top: 15px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.penjelasan{
+	margin-top: 10px;
+	margin-left: 10px;
+	font-size: 20px;
+}
+.gambar1{
+	width: 45%;
+	height: 45%;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.gambar2{
+	width: 20%;
+	height: 20%;
+	margin-left: 50px;
+	margin-top: 20px;
+
+}
+.table { 
+margin: 20px 10px 10px 15px; 
+}
+.terakhir-diperbaharui{
+	margin-top: 15px;
+}
+.kontak-pertanyaan{
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.pertanyaan{
+	margin-top: 15px;
+}
+.question{
+	margin-top: 15px;
+}
+.button1{
+	margin-top: 15px;
+	font-size: 18px;
+}
+.submit{
+	margin-left: 15px;
+	margin-bottom: 15px;
+	font-size: 20px;
+}
+.pertanyaan01{
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.pertanyaan02{
+	margin-left: 15px;
+}
+.pertanyaan03{
+	margin-left: 15px;
+}
+.pertanyaan04{
+	margin-left: 15px;
+}
+.pertanyaan05{
+	margin-left: 15px;
+}
+.footer{
+  width: 100%;
+  height: 45px;
+  line-height: 45px;
+  background-color: black;
+  position: fixed;
+  bottom: 0px;
+  }
+  .isi {
+	width: auto;
+	height: auto;
+	margin: 20px 0 15px 10px;
+}
+
+.pertanyaan #name, #email, #question{
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+.pertanyaan #name, #email {
+	width: 30%;
+	height: 20px;
+}
+
+.pertanyaan #question {
+	width: 30%;
+	height: 70px;
+}
