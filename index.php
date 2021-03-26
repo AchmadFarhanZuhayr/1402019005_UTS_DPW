@@ -22,7 +22,7 @@
 	</div>
 
 	<div class="body">
-		<img class="gambar1" src="img/gambar.jpg">
+		<img class="gambar1" src="gambar.jpg">
 		<p class="penjelasan">Website ini adalah bentuk kerjasama Rumah Sakit YARSI dengan Fakultas Teknologi Informasi YARSI. Yang bertujuan memberikan edukasi kesehatan kepada masyarakat tentang virus COVID-19 dan bagaimana pencegahan penyebarannya.Pandemi COVID-19 telah merubah tatanan kehidupan. Kita menghadapi tantangan-tantangan baru termasuk bagaimana menjalankan kehidupan sehari-hari. Kita masuk dalam era bernama Adaptasi Kebiasaan Baru. Roda ekonomi mulai digerakkan dan di saat yang sama, kita harus lebih waspada agar penyebaran virus dapat ditekan.</p>
 	</div>
 
